@@ -656,7 +656,12 @@ footer {
   color: var(--bg-color);
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-.project-link:hover .project-description,
-.project-link:focus .project-description{
+.project-overlay:hover .project-description,
+.project-overlay:focus .project-description{
   transform: translateY(0);
 }
+
+/* .li-our-project:hover,
+.li-our-project:focus{
+  transform: translateY(0);
+} */
