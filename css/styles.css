@@ -658,5 +658,4 @@ footer {
 }
 .project-link:hover .project-description,
 .project-link:focus .project-description{
-  transform: translateY(0);
-}
+  transform: translateY(0);}
